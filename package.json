@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-fb-login",
+  "version": "1.0.0",
+  "description": "Ứng dụng tự động đăng nhập Facebook và lấy cookie sử dụng Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^20.8.0"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "MIT"
+}
